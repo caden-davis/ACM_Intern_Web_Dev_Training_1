@@ -1,0 +1,23 @@
+.acm-logo {
+    width: 300px;
+}
+
+.wallpaper {
+    width: 600px;
+}
+
+.committee-name {
+    color: blue;
+}
+
+#header {
+    background-color: violet;
+}
+
+p {
+    font-size: 18px;
+}
+
+.awesome-committee {
+    color: red;
+}
